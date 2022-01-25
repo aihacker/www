@@ -14,7 +14,7 @@
 本平台二维码&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;&nbsp;&#160;动态网二维码
 </details>
 
-```html
+```diff
 如果打不开，隔一会儿再刷新一下。
 ```
 <br>
